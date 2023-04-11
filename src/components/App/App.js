@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { url_token, key, data, url_bonus } from '../../utils/.config';
+import { url_token, key, data, url_bonus } from '../../utils/config';
 import StatusBar from '../StatusBar/StatusBar';
 import BonusCard from '../BonusCard/BonusCard';
 
