@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/progress-terra/static/css/main.eaa7e469.css",
+    "main.js": "/progress-terra/static/js/main.3efaf923.js",
+    "static/media/OpenSans-Regular.woff": "/progress-terra/static/media/OpenSans-Regular.6c5acfa99c83633bb078.woff",
+    "static/media/OpenSans-Bold.woff": "/progress-terra/static/media/OpenSans-Bold.eb8f357f58267539eb7b.woff",
+    "static/media/OpenSans-Regular.woff2": "/progress-terra/static/media/OpenSans-Regular.3ef06ba3c7099e63c9ce.woff2",
+    "static/media/OpenSans-Bold.woff2": "/progress-terra/static/media/OpenSans-Bold.f3e79b3d83d8a599df08.woff2",
+    "static/media/info.svg": "/progress-terra/static/media/info.c7a3c9abe0f50021fc96.svg",
+    "static/media/icon.svg": "/progress-terra/static/media/icon.a74c997462fe9ece0d6a3e2c6ccdcf26.svg",
+    "static/media/figma.svg": "/progress-terra/static/media/figma.71fd1cfdc9da1605f6bfb7d6026b761a.svg",
+    "static/media/battery.svg": "/progress-terra/static/media/battery.5b8eaa61b17aaa40077f260e989fd997.svg",
+    "index.html": "/progress-terra/index.html",
+    "static/media/next.svg": "/progress-terra/static/media/next.58778871a2dac76842c9.svg",
+    "main.eaa7e469.css.map": "/progress-terra/static/css/main.eaa7e469.css.map",
+    "main.3efaf923.js.map": "/progress-terra/static/js/main.3efaf923.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa7e469.css",
+    "static/js/main.3efaf923.js"
+  ]
+}
